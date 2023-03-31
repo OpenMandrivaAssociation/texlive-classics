@@ -1,6 +1,6 @@
 Name:		texlive-classics
 Version:	53671
-Release:	1
+Release:	2
 Summary:	Cite classic works
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/classics
