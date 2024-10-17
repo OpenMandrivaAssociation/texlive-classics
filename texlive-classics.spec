@@ -3,7 +3,7 @@ Version:	53671
 Release:	2
 Summary:	Cite classic works
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/classics
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/classics
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/classics.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/classics.doc.r%{version}.tar.xz
